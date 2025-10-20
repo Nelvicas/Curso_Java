@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="559e669f-69bf-4f16-b5ea-aaab1d8d9896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javadesafio/src/Desafio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temperatura.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Temperatura.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adivina/adivina.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../adivina/adivina.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adivina/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../adivina/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bytebank/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bytebank/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bytebank/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/.idea/misc.xml" afterDir="false" />
@@ -18,7 +24,17 @@
       <change beforePath="$PROJECT_DIR$/../bytebank/bytebank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/bytebank.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bytebank/src/br/com/alura/bytebank/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/src/br/com/alura/bytebank/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bytebank/src/br/com/alura/bytebank/model/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/src/br/com/alura/bytebank/model/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/adivina/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/adivina/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match/Decisiones.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match/Decisiones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match/Evaluaciones.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match/Evaluaciones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match/Lectura.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match/Lectura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match/Loops.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match/Loops.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/screen_Match/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/temperatura/Decisiones.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/temperatura/Decisiones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/temperatura/Evaluaciones.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/temperatura/Evaluaciones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/temperatura/Lectura.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/temperatura/Lectura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/temperatura/Loops.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/temperatura/Loops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/temperatura/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/temperatura/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../primer Programa/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../primer Programa/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../primer Programa/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../primer Programa/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../primer Programa/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../primer Programa/.idea/misc.xml" afterDir="false" />
@@ -26,13 +42,6 @@
       <change beforePath="$PROJECT_DIR$/../primer Programa/primer Programa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../primer Programa/primer Programa.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../primer Programa/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../primer Programa/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../screen_Match" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temperatura.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
