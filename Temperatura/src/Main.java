@@ -1,7 +1,7 @@
 
 
-
 /*
+
 Escribe un programa que convierta una temperatura en grados Celsius a Fahrenheit.
 Utiliza variables para representar los valores de las temperaturas e imprime en la consola
 el valor convertido de Celsius a Fahrenheit.
@@ -12,11 +12,13 @@ Después de terminar, probar y verificar que tu programa se haya ejecutado corre
 crea una variable entera para mostrar la temperatura en Fahrenheit sin decimales.
 recuerda que probablemente necesitarás realizar un casting de valores.
 
-
  */
 
 
 
+
 public class Main {
-    public static void main(String[] args) {}
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
 }

@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Temperatura/Temperatura.iml" filepath="$PROJECT_DIR$/Temperatura/Temperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adivina/adivina.iml" filepath="$PROJECT_DIR$/adivina/adivina.iml" />
       <module fileurl="file://$PROJECT_DIR$/bytebank/bytebank.iml" filepath="$PROJECT_DIR$/bytebank/bytebank.iml" />
       <module fileurl="file://$PROJECT_DIR$/primer Programa/primer Programa.iml" filepath="$PROJECT_DIR$/primer Programa/primer Programa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/screen_Match/screen_Match.iml" filepath="$PROJECT_DIR$/screen_Match/screen_Match.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screen_Match/temperatura.iml" filepath="$PROJECT_DIR$/screen_Match/temperatura.iml" />
     </modules>
   </component>
 </project>
