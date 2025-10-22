@@ -11,8 +11,8 @@ public class Pelicula {
     int duracionEnMinutos;
     boolean incluidoEnElPlan;
 
-    double sumaDeLasEvoluciones;
-    int totalDeLasEvaluaciones;
+    private double sumaDeLasEvoluciones;     // modificadores de acceso (private, public,protected)
+    private int totalDeLasEvaluaciones;
 
 
 
