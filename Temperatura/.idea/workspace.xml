@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="559e669f-69bf-4f16-b5ea-aaab1d8d9896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../javadesafio/src/Desafio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
@@ -24,7 +23,10 @@
       <change beforePath="$PROJECT_DIR$/../bytebank/bytebank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/bytebank.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bytebank/src/br/com/alura/bytebank/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/src/br/com/alura/bytebank/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bytebank/src/br/com/alura/bytebank/model/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/src/br/com/alura/bytebank/model/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javadesafio/javadesafio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../javadesafio/javadesafio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javadesafio/src/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javadesafio/src/Desafio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/adivina/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/adivina/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/javadesafio/Desafio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/javadesafio/Desafio.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/screen_Match/Decisiones.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match/Decisiones.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/screen_Match/Evaluaciones.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match/Evaluaciones.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/screen_Match/Lectura.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match/Lectura.class" afterDir="false" />
