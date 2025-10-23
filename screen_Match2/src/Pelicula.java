@@ -15,6 +15,10 @@ public class Pelicula {
     private int totalDeLasEvaluaciones;
 
 
+    int getTotalDeLasEvaluaciones(){     // metodo para obtener (getter)
+        return totalDeLasEvaluaciones;
+    }
+
 
     //  metodo del tipo void
     void muestraFichaTecnica(){
