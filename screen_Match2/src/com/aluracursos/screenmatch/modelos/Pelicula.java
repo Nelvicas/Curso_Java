@@ -1,3 +1,4 @@
+package com.aluracursos.screenmatch.modelos;
 
 ///  programacion orientada en objetos   POO
 
@@ -6,27 +7,27 @@ public class Pelicula {
 
     // clase modelo: nos sirve para crear diferentes objetos ( peliculas)
         //  atributos
-    String nombre;
-    int fechaDeLanzamiento;
-    int duracionEnMinutos;
-    boolean incluidoEnElPlan;
+    public String nombre;
+    public int fechaDeLanzamiento;
+    public int duracionEnMinutos;
+    public boolean incluidoEnElPlan;
 
     private double sumaDeLasEvoluciones;     // modificadores de acceso (private, public,protected)
     private int totalDeLasEvaluaciones;
 
 
-    int getTotalDeLasEvaluaciones(){     // metodo para obtener (getter)
+    public int getTotalDeLasEvaluaciones(){     // metodo para obtener (getter)
         return totalDeLasEvaluaciones;
     }
 
 
     //  metodo del tipo void
-    void muestraFichaTecnica(){
+    public void muestraFichaTecnica(){
         System.out.println("Mi pelicula es: " + nombre);
         System.out.println("Su fecha de lanzamiento fue en: " + fechaDeLanzamiento);
     }
 
-    void evalua(double nota){
+    public void evalua(double nota){
         sumaDeLasEvoluciones += nota;
         //sumaDeLasEvoluciones = sumaDeLasEvoluciones + nota;
         totalDeLasEvaluaciones++;
@@ -34,7 +35,7 @@ public class Pelicula {
 
     //   metodo del tipo double (retorna un valor de tipo double)
 
-    double calculaMedia(){
+    public double calculaMedia(){
         return sumaDeLasEvoluciones / totalDeLasEvaluaciones;
     }
 

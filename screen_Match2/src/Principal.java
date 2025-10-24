@@ -1,3 +1,5 @@
+import com.aluracursos.screenmatch.modelos.Pelicula;
+
 public class Principal {
     public static void main(String[] args) {
 
@@ -17,10 +19,10 @@ public class Principal {
 
 
         // Creacion de objeto 2
-        Pelicula otrapelicula = new Pelicula();
-        otrapelicula.nombre = "Matrix";
-        otrapelicula.fechaDeLanzamiento = 1998;
-        otrapelicula.duracionEnMinutos = 180;
+        //com.aluracursos.screenmatch.modelos.Pelicula otrapelicula = new com.aluracursos.screenmatch.modelos.Pelicula();
+        //otrapelicula.nombre = "Matrix";
+        //otrapelicula.fechaDeLanzamiento = 1998;
+        //otrapelicula.duracionEnMinutos = 180;
 
         //otrapelicula.muestraFichaTecnica();
     }
