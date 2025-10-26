@@ -9,6 +9,7 @@ public class Principal {
         miPelicula.setFechaDeLanzamiento(2021);
         miPelicula.setDuracionEnMinutos(120);
         miPelicula.setIncluidoEnElPlan(true);
+        miPelicula.setIncluidoEnElPlan(true);
 
         miPelicula.muestraFichaTecnica();
         miPelicula.evalua(7.8);
@@ -25,6 +26,6 @@ public class Principal {
         //otrapelicula.fechaDeLanzamiento = 1998;
         //otrapelicula.duracionEnMinutos = 180;
 
-        //otrapelicula.muestraFichaTecnica();
+        //
     }
 }
