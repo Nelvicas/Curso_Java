@@ -15,14 +15,31 @@ public class Pelicula {
     private double sumaDeLasEvoluciones;     // modificadores de acceso (private, public,protected)
     private int totalDeLasEvaluaciones;
 
+
         // metodo getter para obtener
     public int getTotalDeLasEvaluaciones() {     // metodo para obtener (getter)
 
         return totalDeLasEvaluaciones;
     }
 
+    public String getNombre() {
+        return nombre;
+    }
 
-       // metodos setter  para colocar datos
+    public int getFechaDeLanzamiento() {
+        return fechaDeLanzamiento;
+    }
+
+    public int getDuracionEnMinutos() {
+        return duracionEnMinutos;
+    }
+
+    public boolean isIncluidoEnElPlan() {
+        return incluidoEnElPlan;
+    }
+
+
+    // metodos setter  para colocar datos
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
