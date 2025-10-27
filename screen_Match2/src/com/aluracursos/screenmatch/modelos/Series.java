@@ -7,8 +7,14 @@ public class Series extends Titulo {
 
 
 
+    @Override     ///  sobreescritura de metodos
+    public int getDuracionEnMinutos() {
+        return temposadas * episodiosPorTemporadas * minutosPorEpisodio;
+    }
 
     ///   metodos getter (obtener)  metodo setter (colocar datos)
+
+
     public int getTemposadas() {
         return temposadas;
     }
