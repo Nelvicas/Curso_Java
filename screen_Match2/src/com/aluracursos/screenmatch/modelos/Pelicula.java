@@ -1,6 +1,6 @@
 package com.aluracursos.screenmatch.modelos;
 
-///  programacion orientada en objetos   POO
+///  programacion orientada a objetos   POO
 
 
 public class Pelicula  extends Titulo {

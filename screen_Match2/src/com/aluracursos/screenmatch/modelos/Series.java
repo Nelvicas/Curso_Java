@@ -1,7 +1,7 @@
 package com.aluracursos.screenmatch.modelos;
 
 public class Series extends Titulo {
-    int temposadas;
+    int temporadas;
     int episodiosPorTemporadas;
     int minutosPorEpisodio;
 
@@ -9,18 +9,18 @@ public class Series extends Titulo {
 
     @Override     ///  sobreescritura de metodos
     public int getDuracionEnMinutos() {
-        return temposadas * episodiosPorTemporadas * minutosPorEpisodio;
+        return temporadas * episodiosPorTemporadas * minutosPorEpisodio;
     }
 
     ///   metodos getter (obtener)  metodo setter (colocar datos)
 
 
     public int getTemposadas() {
-        return temposadas;
+        return temporadas;
     }
 
     public void setTemposadas(int temposadas) {
-        this.temposadas = temposadas;
+        this.temporadas = temposadas;
     }
 
     public int getEpisodiosPorTemporadas() {

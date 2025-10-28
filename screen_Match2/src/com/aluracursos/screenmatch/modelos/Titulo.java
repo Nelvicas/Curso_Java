@@ -14,7 +14,6 @@ public class Titulo {
 
     // metodo getter para obtener
     public int getTotalDeLasEvaluaciones() {
-
         return totalDeLasEvaluaciones;
     }
 
