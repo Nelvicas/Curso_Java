@@ -8,6 +8,13 @@ public class Episodio implements Clasificacion {
     private Series series;
     private int totalVisualizaciones;
 
+    public int getTotalVisualizaciones() {
+        return totalVisualizaciones;
+    }
+
+    public void setTotalVisualizaciones(int totalVisualizaciones) {
+        this.totalVisualizaciones = totalVisualizaciones;
+    }
 
     public int getNumero() {
         return numero;
