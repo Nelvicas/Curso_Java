@@ -1,6 +1,6 @@
 package com.aluracursos.audio.modelos;
 
-public class Podcast {
+public class Podcast extends Audio{
 
     //  atributos
     private String presentador;
