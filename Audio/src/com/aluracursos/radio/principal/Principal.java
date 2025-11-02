@@ -1,6 +1,7 @@
 package com.aluracursos.radio.principal;
 
 import com.aluracursos.audio.modelos.Cancion;
+import com.aluracursos.audio.modelos.MisFavoritos;
 import com.aluracursos.audio.modelos.Podcast;
 
 public class Principal {
@@ -16,14 +17,31 @@ public class Principal {
         miPodcast.setTitulo("Cafe.tech");
 
 
-        for (int i = 0; i < 100; i++) {
+        // canciones
+        for (int i = 0; i < 200; i++) {
             miCancion.meGusta();
         }
         for (int i = 0; i < 5000; i++) {
             miCancion.reproduce();
         }
 
+
+        // podcasts
+        for (int i = 0; i < 100; i++) {
+            miPodcast.meGusta();
+        }
+        for (int i = 0; i < 8000; i++) {
+            miPodcast.reproduce();
+        }
+
+
         System.out.println("Total de reproducciones: " + miCancion.getTotalReproducciones());
         System.out.println("Total de me Gusta: " + miCancion.getTotalDeMegusta());
+
+
+        MisFavoritos favoritos = new MisFavoritos();
+        favoritos.adicion(miPodcast);
+        favoritos.adicion(miCancion);
+
     }
 }

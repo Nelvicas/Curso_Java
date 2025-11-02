@@ -7,6 +7,19 @@ public class Cancion extends  Audio{
     private String genero;
 
 
+
+      // metodo para sobreescribir
+
+    @Override
+    public int getClasificacion() {
+        if (getTotalDeMegusta() < 5000){
+            return 8;
+        } else {
+            return 4;
+        }
+    }
+
+
     // getters  setters
 
 

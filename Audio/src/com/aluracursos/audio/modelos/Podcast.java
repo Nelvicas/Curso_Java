@@ -7,6 +7,18 @@ public class Podcast extends Audio{
     private String descripcion;
 
 
+    //  metodo  para sobreescribir metodos
+
+    @Override
+    public int getClasificacion() {
+        if ( getTotalReproducciones() >= 200){
+            return 9;
+        } else {
+            return 2;
+        }
+    }
+
+
     // getters y setters
 
 
