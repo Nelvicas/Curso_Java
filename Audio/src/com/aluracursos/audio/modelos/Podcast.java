@@ -1,0 +1,28 @@
+package com.aluracursos.audio.modelos;
+
+public class Podcast {
+
+    //  atributos
+    private String presentador;
+    private String descripcion;
+
+
+    // getters y setters
+
+
+    public String getPresentador() {
+        return presentador;
+    }
+
+    public void setPresentador(String presentador) {
+        this.presentador = presentador;
+    }
+
+    public String getDescripcion() {
+        return descripcion;
+    }
+
+    public void setDescripcion(String descripcion) {
+        this.descripcion = descripcion;
+    }
+}
