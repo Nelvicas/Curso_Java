@@ -1,4 +1,4 @@
-package Compra;
+package src.Compra;
 
 public class Compra {
 
@@ -30,3 +30,4 @@ public class Compra {
     }
 
 }
+
