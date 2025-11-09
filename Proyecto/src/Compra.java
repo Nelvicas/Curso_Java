@@ -1,6 +1,4 @@
-package src.Compra;
-
-public class Compra {
+public class Compra implements Comparable<Compra> {
 
     private double valor;
     private String descripcion;
@@ -29,5 +27,8 @@ public class Compra {
                 ", descripcion='" + descripcion;
     }
 
+    @Override
+    public int compareTo(Compra otraCompra) {
+        return Double.valueOf(this.valor).compareTo(Double.valueOf(otraCompra.getValor()));
+    }
 }
-
