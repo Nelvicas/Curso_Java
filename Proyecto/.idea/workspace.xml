@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1bdeb87-4709-4d25-b061-2b8f2ef26ba2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ConversorDeMonedas/lib/gson-2.13.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Audio/Audio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Audio/Audio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Audio/src/com/aluracursos/audio/modelos/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Audio/src/com/aluracursos/audio/modelos/Audio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Audio/src/com/aluracursos/audio/modelos/Cancion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Audio/src/com/aluracursos/audio/modelos/Cancion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Audio/src/com/aluracursos/audio/modelos/MisFavoritos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Audio/src/com/aluracursos/audio/modelos/MisFavoritos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Audio/src/com/aluracursos/audio/modelos/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Audio/src/com/aluracursos/audio/modelos/Podcast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Audio/src/com/aluracursos/radio/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Audio/src/com/aluracursos/radio/principal/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Compra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TarjetaDeCredito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TarjetaDeCredito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenmatch4/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Screenmatch4/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenmatch4/peliula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Screenmatch4/peliula.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/calculos/CalculadoraDeTiempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/calculos/CalculadoraDeTiempo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/calculos/Clasificable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/calculos/Clasificable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/calculos/FiltroRecomendacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/calculos/FiltroRecomendacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/excepcion/ErrorEnConversionDeDuracionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/excepcion/ErrorEnConversionDeDuracionException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/modelos/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/modelos/Episodio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/modelos/Pelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/modelos/Pelicula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/modelos/TituloOmdb.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/modelos/TituloOmdb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/principal/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/principal/PrincipalConBusqueda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/principal/PrincipalConBusqueda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/principal/PrincipalConListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Screenmatch4/src/com/alura/screenmatch/principal/PrincipalConListas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenmatch4/titulos.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Screenmatch4/titulos.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Temperatura/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Temperatura/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Temperatura/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Temperatura/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Temperatura/Temperatura.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Temperatura/Temperatura.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Temperatura/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Temperatura/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adivina/adivina.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../adivina/adivina.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adivina/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../adivina/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank/bytebank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/bytebank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank/src/br/com/alura/bytebank/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/src/br/com/alura/bytebank/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank/src/br/com/alura/bytebank/model/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/src/br/com/alura/bytebank/model/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javadesafio/javadesafio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../javadesafio/javadesafio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javadesafio/src/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javadesafio/src/Desafio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Audio/com/aluracursos/audio/modelos/Audio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Audio/com/aluracursos/audio/modelos/Audio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Audio/com/aluracursos/audio/modelos/Cancion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Audio/com/aluracursos/audio/modelos/Cancion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Audio/com/aluracursos/audio/modelos/MisFavoritos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Audio/com/aluracursos/audio/modelos/MisFavoritos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Audio/com/aluracursos/audio/modelos/Podcast.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Audio/com/aluracursos/audio/modelos/Podcast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Audio/com/aluracursos/radio/principal/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Audio/com/aluracursos/radio/principal/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/TarjetaDeCredito.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java/TarjetaDeCredito.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Proyecto/Compra.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Proyecto/Compra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Proyecto/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Proyecto/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Proyecto/TarjetaDeCredito.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Proyecto/TarjetaDeCredito.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/adivina/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/adivina/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/javadesafio/Desafio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/javadesafio/Desafio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/calculos/CalculadoraDeTiempo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/calculos/CalculadoraDeTiempo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/calculos/Clasificable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/calculos/Clasificable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/calculos/FiltroRecomendacion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/calculos/FiltroRecomendacion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/modelos/Episodio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/modelos/Episodio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/modelos/Pelicula.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/modelos/Pelicula.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/modelos/Serie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/modelos/Serie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/modelos/Titulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/modelos/Titulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/principal/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/principal/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/principal/PrincipalConListas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen-match-3/com/alura/screenmatch/principal/PrincipalConListas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match/Decisiones.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match/Decisiones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match/Evaluaciones.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match/Evaluaciones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match/Lectura.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match/Lectura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match/Loops.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match/Loops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match2/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match2/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match2/com/aluracursos/screenmatch/calculos/CalculadoraDeTiempo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match2/com/aluracursos/screenmatch/calculos/CalculadoraDeTiempo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match2/com/aluracursos/screenmatch/calculos/Clasificacion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match2/com/aluracursos/screenmatch/calculos/Clasificacion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match2/com/aluracursos/screenmatch/calculos/FiltroRecomendaciones.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match2/com/aluracursos/screenmatch/calculos/FiltroRecomendaciones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match2/com/aluracursos/screenmatch/modelos/Episodio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match2/com/aluracursos/screenmatch/modelos/Episodio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match2/com/aluracursos/screenmatch/modelos/Pelicula.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match2/com/aluracursos/screenmatch/modelos/Pelicula.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match2/com/aluracursos/screenmatch/modelos/Series.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match2/com/aluracursos/screenmatch/modelos/Series.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/screen_Match2/com/aluracursos/screenmatch/modelos/Titulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/screen_Match2/com/aluracursos/screenmatch/modelos/Titulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/temperatura/Decisiones.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/temperatura/Decisiones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/temperatura/Evaluaciones.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/temperatura/Evaluaciones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/temperatura/Lectura.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/temperatura/Lectura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/temperatura/Loops.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/temperatura/Loops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/temperatura/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/temperatura/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primer Programa/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../primer Programa/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primer Programa/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../primer Programa/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primer Programa/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../primer Programa/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primer Programa/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../primer Programa/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primer Programa/primer Programa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../primer Programa/primer Programa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primer Programa/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../primer Programa/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen-match-3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../screen-match-3/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen-match-3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../screen-match-3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen-match-3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../screen-match-3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen-match-3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../screen-match-3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen-match-3/screen-match-3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../screen-match-3/screen-match-3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen-match-3/src/com/alura/screenmatch/principal/PrincipalConListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../screen-match-3/src/com/alura/screenmatch/principal/PrincipalConListas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen_Match" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen_Match2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen_Match2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen_Match2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen_Match2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen_Match2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen_Match2/screen_Match2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match2/screen_Match2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen_Match2/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match2/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen_Match2/src/com/aluracursos/screenmatch/calculos/CalculadoraDeTiempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match2/src/com/aluracursos/screenmatch/calculos/CalculadoraDeTiempo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen_Match2/src/com/aluracursos/screenmatch/calculos/Clasificacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match2/src/com/aluracursos/screenmatch/calculos/Clasificacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen_Match2/src/com/aluracursos/screenmatch/calculos/FiltroRecomendaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match2/src/com/aluracursos/screenmatch/calculos/FiltroRecomendaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen_Match2/src/com/aluracursos/screenmatch/modelos/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match2/src/com/aluracursos/screenmatch/modelos/Episodio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen_Match2/src/com/aluracursos/screenmatch/modelos/Pelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match2/src/com/aluracursos/screenmatch/modelos/Pelicula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen_Match2/src/com/aluracursos/screenmatch/modelos/Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match2/src/com/aluracursos/screenmatch/modelos/Series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen_Match2/src/com/aluracursos/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../screen_Match2/src/com/aluracursos/screenmatch/modelos/Titulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starwarsapi/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../starwarsapi/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starwarsapi/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../starwarsapi/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starwarsapi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../starwarsapi/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starwarsapi/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../starwarsapi/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starwarsapi/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../starwarsapi/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starwarsapi/A New Hope.json" beforeDir="false" afterPath="$PROJECT_DIR$/../starwarsapi/A New Hope.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starwarsapi/src/ConsultaPelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/../starwarsapi/src/ConsultaPelicula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starwarsapi/src/GeneradorDeArhivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../starwarsapi/src/GeneradorDeArhivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starwarsapi/src/Pelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/../starwarsapi/src/Pelicula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starwarsapi/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../starwarsapi/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../starwarsapi/starwarsapi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../starwarsapi/starwarsapi.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="35aQfcIXIqozE8ozO7826WiBDom" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/NelviCastellanos/Documents/Java/Proyecto"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1bdeb87-4709-4d25-b061-2b8f2ef26ba2" name="Changes" comment="" />
+      <created>1763345806215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763345806215</updated>
+    </task>
+    <servers />
+  </component>
+</project>
